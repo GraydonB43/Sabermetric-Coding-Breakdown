@@ -1,2 +1,2 @@
 # Sabermetric-Coding-Breakdown
-Baseball Reference pages where information in these examples were taken from listed in code file.
+Links to Baseball Reference pages where information in these Python coding examples were taken from is listed in code file.
